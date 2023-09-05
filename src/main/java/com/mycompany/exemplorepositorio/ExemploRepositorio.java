@@ -11,6 +11,6 @@ package com.mycompany.exemplorepositorio;
 public class ExemploRepositorio {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("está alterado");
     }
 }
